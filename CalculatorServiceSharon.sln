@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorServiceSharon", "CalculatorServiceSharon\CalculatorServiceSharon.csproj", "{89C49A73-09ED-4915-A25D-92D7C0A81E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHost2", "WpfHost2\WpfHost2.csproj", "{3E80E0F6-0126-48C3-9F29-E6B1EBB4A14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C49A73-09ED-4915-A25D-92D7C0A81E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C49A73-09ED-4915-A25D-92D7C0A81E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C49A73-09ED-4915-A25D-92D7C0A81E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C49A73-09ED-4915-A25D-92D7C0A81E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E80E0F6-0126-48C3-9F29-E6B1EBB4A14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E80E0F6-0126-48C3-9F29-E6B1EBB4A14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E80E0F6-0126-48C3-9F29-E6B1EBB4A14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E80E0F6-0126-48C3-9F29-E6B1EBB4A14C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD17D29B-8C29-49C5-92BB-03F06A35455D}
+	EndGlobalSection
+EndGlobal
